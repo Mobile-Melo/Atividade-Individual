@@ -1,106 +1,75 @@
-# 📱 Caboom App -- Loja de Periféricos Gamers
+# 💻 Caboom E-commerce App
 
-**Desenvolvedor:** Gabriel Toledo Melo
+<p align="center">
+  <a href="#sobre-o-projeto">Sobre</a> •
+  <a href="#funcionalidades">Funcionalidades</a> •
+  <a href="#tecnologias-utilizadas">Tecnologias</a> •
+  <a href="#instruções-de-uso-e-deploy">API</a> •
+  <a href="#prints-das-telas">Prints</a> •
+  <a href="#desenvolvedor">Desenvolvedor</a>
+</p>
 
-## Índice
+---
 
--   [Tecnologias](#tecnologias)
--   [Sobre o Projeto](#sobre-o-projeto)
--   [Funcionalidades](#funcionalidades)
--   [Tecnologias Utilizadas](#tecnologias-utilizadas)
--   [API -- Documentação Swagger](#api--documentação-swagger)
--   [Prints das Telas](#prints-das-telas-flutterflow)
--   [Desenvolvedor](#desenvolvedor)
+## ✨ Sobre o Projeto
 
-## 🔖 Tecnologias
+O **Caboom E-commerce App** é um aplicativo móvel de vendas focado no segmento de **periféricos e componentes gamers**.
 
-`<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>`{=html}\
-`<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>`{=html}\
-`<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>`{=html}\
-`<img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>`{=html}\
-`<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>`{=html}\
-`<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>`{=html}
+Desenvolvido como um projeto demonstrativo e funcional, o app tem como objetivo simular a experiência completa de uma loja virtual, permitindo que usuários explorem, cadastrem-se e gerenciem suas informações de entrega para futuras compras de produtos de alto desempenho.
 
-------------------------------------------------------------------------
-
-## 🧩 Sobre o Projeto
-
-O **Caboom App** é um aplicativo mobile desenvolvido para a empresa
-Caboom, focada na venda de periféricos gamers, peças e componentes de
-computador.\
-O app oferece uma interface simples, moderna e eficiente, permitindo que
-o usuário crie sua conta, faça login, cadastre seu endereço e visualize
-seus dados de forma prática.
-
-Esse projeto foi desenvolvido utilizando **FlutterFlow com Dart** no
-frontend e **Java + Spring + Swagger + Maven** no backend.
-
-------------------------------------------------------------------------
+---
 
 ## 🚀 Funcionalidades
 
-### ✔️ Funcionalidades Implementadas
+O aplicativo possui as seguintes funcionalidades principais implementadas e em funcionamento:
 
--   **Cadastro de Usuário**\
-    Permite a criação de uma nova conta.
+* **Autenticação de Usuário:**
+    * **Login:** Permite o acesso de usuários já cadastrados.
+    * **Cadastro:** Permite que novos usuários criem suas contas no aplicativo.
+* **Gestão de Dados do Usuário:**
+    * **Checagem de Dados:** Validação e verificação das informações fornecidas pelo usuário.
+    * **Cadastro de Endereço:** Permite ao usuário cadastrar e armazenar um endereço para futuras entregas.
 
--   **Login de Usuário**\
-    Autenticação via API com verificação de credenciais.
-
--   **Consulta de Dados do Usuário**\
-    A API retorna informações completas para perfis autenticados.
-
--   **Cadastro de Endereço**\
-    Usuário pode registrar seu endereço e salvar no banco de dados.
-
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-### **Frontend**
+* **Java:** ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+* **FlutterFlow/Dart:** ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+* **Maven:** ![Maven Badge](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+* **Swagger:** ![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
--   FlutterFlow\
--   Dart
+---
 
-### **Backend**
+## Acesso à Documentação da API
 
--   Java\
--   Spring Boot\
--   Maven\
--   Swagger (documentação e consumo)
+A API utilizada para o consumo de dados do aplicativo está disponível e documentada através do Swagger UI.
 
-### **Deploy**
+* **Link do Deploy do Swagger:**
+    > [https://api-caboom.onrender.com/FabLab/swagger-ui/index.html#/](https://api-caboom.onrender.com/FabLab/swagger-ui/index.html#/)
 
--   Render
+---
 
-------------------------------------------------------------------------
+## 📸 Prints das Telas
 
-## 📡 API -- Documentação Swagger
+***(Espaço reservado para as capturas de tela do aplicativo FlutterFlow. Insira as imagens abaixo.)***
 
-👉 **https://api-caboom.onrender.com/FabLab/swagger-ui/index.html#/**
+### Tela de Login
 
-A API é usada para autenticação, cadastro e gerenciamento dos dados do
-usuário.
 
-------------------------------------------------------------------------
 
-## 📷 Prints das Telas (FlutterFlow)
+### Tela de Cadastro de Usuário
 
-> **Insira aqui suas imagens**\
-> Use os blocos abaixo para adicionar os prints depois:
 
-    [PRINT 01 AQUI]
 
-    [PRINT 02 AQUI]
+### Tela de Cadastro de Endereço
 
-    [PRINT 03 AQUI]
 
-    ...
 
-------------------------------------------------------------------------
+---
 
-## 👨‍💻 Desenvolvedor
+## 🧑‍💻 Desenvolvedor
 
-**Gabriel Toledo Melo**\
-Sinta-se à vontade para abrir *issues*, enviar *pull requests* ou
-sugerir novas funcionalidades.
+| Nome | GitHub | E-mail |
+| :--- | :--- | :--- |
+| **Gabriel Toledo Melo** | [Github](https://github.com/F12-Melo) | [E-mail](gabrieltoledomelo12@gmail.com) |
