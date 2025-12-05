@@ -76,4 +76,4 @@ A API utilizada para o consumo de dados do aplicativo está disponível e docume
 
 | Nome | GitHub | E-mail |
 | :--- | :--- | :--- |
-| **Gabriel Toledo Melo** | [Github](https://github.com/F12-Melo) | [E-mail](gabrieltoledomelo12@gmail.com) |
+| **Gabriel Toledo Melo** | [Github](https://github.com/F12-Melo) | [gabrieltoledomelo12@gmail.com](gabrieltoledomelo12@gmail.com) |
