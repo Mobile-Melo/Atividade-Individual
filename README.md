@@ -43,18 +43,31 @@ A API utilizada para o consumo de dados do aplicativo está disponível e docume
 
 ## 📸 Prints das Telas
 
-***(Espaço reservado para as capturas de tela do aplicativo FlutterFlow. Insira as imagens abaixo.)***
+### Tela de Cadastro do usuario
+<img width="359" height="766" alt="image" src="https://github.com/user-attachments/assets/18d41365-d39a-4d33-b961-3262b5410364" />
 
-### Tela de Login
+### Tela de Login do usuario
+<img width="354" height="765" alt="image" src="https://github.com/user-attachments/assets/79a86528-64a3-4749-8384-296913dc5286" />
 
+### Tela de Home
+<img width="352" height="763" alt="image" src="https://github.com/user-attachments/assets/b756ab33-cdb5-4b1b-ac66-e18e9c62b737" />
 
+### Tela de Exibição do produto
+<img width="359" height="772" alt="image" src="https://github.com/user-attachments/assets/12470920-33f7-4cc6-91aa-2fff39050747" />
 
-### Tela de Cadastro de Usuário
+### Tela de Exibição dos dados do usuario
+<img width="356" height="770" alt="image" src="https://github.com/user-attachments/assets/6efb2dc8-ef53-4473-8606-a8cb3e7c73ac" />
 
+## 📸 Prints dos componentes
 
+### Componente de cadastro de endereço
+<img width="366" height="492" alt="image" src="https://github.com/user-attachments/assets/69c145cc-5f22-4f1a-883f-1d6ecdda2f71" />
 
-### Tela de Cadastro de Endereço
+### Componente de atualizar perfil
+<img width="388" height="619" alt="image" src="https://github.com/user-attachments/assets/fc89416a-5d24-4e57-a162-450fbc5c4dc8" />
 
+### Componente de barra de navegção lateral
+<img width="382" height="796" alt="image" src="https://github.com/user-attachments/assets/70856f94-9a99-45e4-9121-09408c1aebb7" />
 
 
 ---
