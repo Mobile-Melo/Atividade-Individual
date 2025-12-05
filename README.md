@@ -32,12 +32,15 @@ O aplicativo possui as seguintes funcionalidades principais implementadas e em f
 
 ---
 
-## Acesso à Documentação da API
+## Acesso à API
 
 A API utilizada para o consumo de dados do aplicativo está disponível e documentada através do Swagger UI.
 
 * **Link do Deploy do Swagger:**
     > [https://api-caboom.onrender.com/FabLab/swagger-ui/index.html#/](https://api-caboom.onrender.com/FabLab/swagger-ui/index.html#/)
+
+* **Link da documentação inteira do trabalho**
+    > [Google docs](https://docs.google.com/document/d/14aoxNvq05h6HHh_ZjFH8eP-6-TKV0SS9/edit?usp=sharing&ouid=114320076273622228317&rtpof=true&sd=true)
 
 ---
 
