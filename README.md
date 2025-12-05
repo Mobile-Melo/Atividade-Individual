@@ -1,80 +1,106 @@
-# 📱 Caboom App
+# 📱 Caboom App -- Loja de Periféricos Gamers
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-%20UI%20Builder-blue)
-![Dart](https://img.shields.io/badge/Dart-Language-0175C2)
-![Java](https://img.shields.io/badge/Java-Backend-red)
-![Maven](https://img.shields.io/badge/Maven-Build-orange)
-![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+**Desenvolvedor:** Gabriel Toledo Melo
 
----
+## Índice
 
-Aplicativo desenvolvido para a **Caboom**, uma empresa especializada na venda de periféricos gamers, peças e componentes de computador.  
-O projeto foi criado com o objetivo de oferecer uma experiência prática e intuitiva para usuários autenticarem-se, gerenciarem suas informações e cadastrarem endereços.
+-   [Tecnologias](#tecnologias)
+-   [Sobre o Projeto](#sobre-o-projeto)
+-   [Funcionalidades](#funcionalidades)
+-   [Tecnologias Utilizadas](#tecnologias-utilizadas)
+-   [API -- Documentação Swagger](#api--documentação-swagger)
+-   [Prints das Telas](#prints-das-telas-flutterflow)
+-   [Desenvolvedor](#desenvolvedor)
 
----
+## 🔖 Tecnologias
 
-## 📌 Descrição do Projeto
+`<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>`{=html}\
+`<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>`{=html}\
+`<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>`{=html}\
+`<img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>`{=html}\
+`<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>`{=html}\
+`<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>`{=html}
 
-O **Caboom App** é um aplicativo mobile desenvolvido em **FlutterFlow** integrado a uma API construída em **Java**.  
-Ele oferece funcionalidades essenciais de autenticação, gerenciamento de perfis e cadastro de endereços, servindo como base para a expansão futura do catálogo de produtos e funcionalidades de e-commerce.
+------------------------------------------------------------------------
 
----
+## 🧩 Sobre o Projeto
+
+O **Caboom App** é um aplicativo mobile desenvolvido para a empresa
+Caboom, focada na venda de periféricos gamers, peças e componentes de
+computador.\
+O app oferece uma interface simples, moderna e eficiente, permitindo que
+o usuário crie sua conta, faça login, cadastre seu endereço e visualize
+seus dados de forma prática.
+
+Esse projeto foi desenvolvido utilizando **FlutterFlow com Dart** no
+frontend e **Java + Spring + Swagger + Maven** no backend.
+
+------------------------------------------------------------------------
 
 ## 🚀 Funcionalidades
 
-- 🔐 **Login de Usuário**  
-- 📝 **Cadastro de Usuário**  
-- 👤 **Checagem de Dados do Usuário**  
-- 📍 **Cadastro de Endereço**  
-- 🔄 **Integração Completa com Backend Java**
+### ✔️ Funcionalidades Implementadas
 
----
+-   **Cadastro de Usuário**\
+    Permite a criação de uma nova conta.
 
-## 🛠 Tecnologias Utilizadas
+-   **Login de Usuário**\
+    Autenticação via API com verificação de credenciais.
+
+-   **Consulta de Dados do Usuário**\
+    A API retorna informações completas para perfis autenticados.
+
+-   **Cadastro de Endereço**\
+    Usuário pode registrar seu endereço e salvar no banco de dados.
+
+------------------------------------------------------------------------
+
+## 🛠️ Tecnologias Utilizadas
 
 ### **Frontend**
-- FlutterFlow  
-- Dart
+
+-   FlutterFlow\
+-   Dart
 
 ### **Backend**
-- Java  
-- Maven  
-- Swagger
 
-### **Hospedagem**
-- Render
+-   Java\
+-   Spring Boot\
+-   Maven\
+-   Swagger (documentação e consumo)
 
----
+### **Deploy**
 
-## 🌐 Swagger da API (Deploy)
+-   Render
+
+------------------------------------------------------------------------
+
+## 📡 API -- Documentação Swagger
 
 👉 **https://api-caboom.onrender.com/FabLab/swagger-ui/index.html#/**
 
----
+A API é usada para autenticação, cadastro e gerenciamento dos dados do
+usuário.
 
-## 🖼 Prints do App (FlutterFlow)
+------------------------------------------------------------------------
 
-> *Insira suas imagens abaixo substituindo os espaços.*
+## 📷 Prints das Telas (FlutterFlow)
 
-### **Tela de Login**  
-_(imagem aqui)_
+> **Insira aqui suas imagens**\
+> Use os blocos abaixo para adicionar os prints depois:
 
-### **Tela de Cadastro**  
-_(imagem aqui)_
+    [PRINT 01 AQUI]
 
-### **Tela de Perfil / Dados do Usuário**  
-_(imagem aqui)_
+    [PRINT 02 AQUI]
 
-### **Tela de Cadastro de Endereço**  
-_(imagem aqui)_
+    [PRINT 03 AQUI]
 
----
+    ...
+
+------------------------------------------------------------------------
 
 ## 👨‍💻 Desenvolvedor
 
-**Gabriel Toledo Melo**
-
----
-
+**Gabriel Toledo Melo**\
+Sinta-se à vontade para abrir *issues*, enviar *pull requests* ou
+sugerir novas funcionalidades.
