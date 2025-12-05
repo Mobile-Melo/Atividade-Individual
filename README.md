@@ -1,14 +1,5 @@
 # 💻 Caboom E-commerce App
 
-<p align="center">
-  <a href="#sobre-o-projeto">Sobre</a> •
-  <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#tecnologias-utilizadas">Tecnologias</a> •
-  <a href="#instruções-de-uso-e-deploy">API</a> •
-  <a href="#prints-das-telas">Prints</a> •
-  <a href="#desenvolvedor">Desenvolvedor</a>
-</p>
-
 ---
 
 ## ✨ Sobre o Projeto
